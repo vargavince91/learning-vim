@@ -85,3 +85,8 @@ Why is Vim a "modal" editor? Because it has modes! Normal, Insert, Visual. When 
 Here is a list of all the resources I used.
 
 * [YouTube DistroTube The Vim Tutorial - Part One - Basic Commands](https://www.youtube.com/watch?v=ER5JYFKkYDg)
+
+
+Random notes
+
+* install nerd fonts, should work with vim devicons
