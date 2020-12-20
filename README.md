@@ -87,6 +87,8 @@ Here is a list of all the resources I used.
 * [YouTube DistroTube The Vim Tutorial - Part One - Basic Commands](https://www.youtube.com/watch?v=ER5JYFKkYDg)
 
 
-Random notes
+Random notes, todos;
 
 * install nerd fonts, should work with vim devicons
+* vifm
+* alacritty
