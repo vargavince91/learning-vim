@@ -80,6 +80,10 @@ Why is Vim a "modal" editor? Because it has modes! Normal, Insert, Visual. When 
 * map ii to leave insert mode
 
 
+# Stuff I always forget if I don't use Vim for a week
+
+* shift i (aka I) to show hidden files in nerd tree
+
 # Resources
 
 Here is a list of all the resources I used.
