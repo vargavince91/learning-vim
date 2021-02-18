@@ -83,6 +83,15 @@ Why is Vim a "modal" editor? Because it has modes! Normal, Insert, Visual. When 
 # Stuff I always forget if I don't use Vim for a week
 
 * shift i (aka I) to show hidden files in nerd tree
+* new file: https://sookocheff.com/post/vim/creating-a-new-file-or-directoryin-vim-using-nerdtree/ m for menu, a 
+
+```
+NERDTree Menu. Use j/k/enter, or the shortcuts indicated
+=========================================================
+> (a)dd a childnode
+```
+
+* run command :!unix_command
 
 # Resources
 
