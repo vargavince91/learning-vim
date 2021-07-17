@@ -83,7 +83,15 @@ Why is Vim a "modal" editor? Because it has modes! Normal, Insert, Visual. When 
 
 I found this great article about remapping the Esc key by Adam https://medium.com/@adamregaszrethy/vim-where-to-remap-esc-6f556d11fb75. In it, he describes that we can use Karabiner Elements for the remapping. https://karabiner-elements.pqrs.org/ I downloaded the dmg file, opened it and installed Karabiner. Maybe for the next time I should add this with homebrew? Can I do that? Yes, I can https://formulae.brew.sh/cask/karabiner-elements. Anyway. Karabiner is installed.
 
+Make sure Karabiner runs correctly. I had to enable it Security and Privacy, and I also had to restart the computer.
+
 Next step: How do I remap this? https://spin.atomicobject.com/2020/05/15/caps-lock-escape-control/
+
+Complex modifications > Add rule > Import more rules from the Internet > (https://ke-complex-modifications.pqrs.org/ opens in default web browser) > Expand all > Search for "Change caps_lock to Command if pressed with other keys, to escape if pressed alone."
+
+Karabiner also supports a JSON format to describe complex modifications https://karabiner-elements.pqrs.org/docs/json/typical-complex-modifications-examples/
+
+You can include them, but it is tricky and not well documented https://github.com/pqrs-org/Karabiner-Elements/issues/1225 long story short, you need to create json files in your .config karabiner folder.
 
 
 # Stuff I always forget if I don't use Vim for a week
